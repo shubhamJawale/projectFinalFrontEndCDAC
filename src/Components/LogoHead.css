@@ -1,0 +1,93 @@
+* {
+    text-decoration: none;
+    font-family: '	Papyrus LET', Fantasy;
+    margin: 0;
+    padding: 0;
+    
+
+
+
+}
+
+.logohead {
+    width: 100%;
+    text-align: center;
+    color: #F720A1;
+    padding: 1%;
+
+    margin-top: 20px;
+
+    /*background-color: #fa97d2;*/
+    border-radius: 6px;
+    /* box-shadow: 4px 3px 15px grey; */
+
+}
+
+
+.btn11 {
+    margin-top: 2%;
+
+    background-color: #F720A1;
+    padding: 5%;
+    color: white;
+    width: 80%;
+    margin-bottom: 4%;
+    border: 1px solid rgb(0, 56, 56);
+    font-weight: lighter;
+    font-size: medium;
+
+}
+
+.btn11:hover {
+    box-shadow: 5px 7px 7px darkcyan;
+    background-color: white;
+    color: darkcyan;
+    border: 1px solid darkcyan;
+}
+
+.btn11:hover:active {
+    box-shadow: 5px 7px 7px grey;
+    background-color: teal;
+    color: whitesmoke;
+    border: 1px solid darkcyan;
+
+}
+
+.MainBody {
+    background-image: url("../resources/images/home2.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.headTitle {
+    color: rgb(236, 231, 231);
+}
+
+
+.logohead{
+
+font-weight: bolder;
+font-size: xx-small;
+text-align: center;
+justify-content: center;
+
+
+}
+
+.UpperBar{
+    position: relative;
+    width: 100%;
+   
+  
+   
+    
+}
+
+.iconhead{
+    width: 15%;
+}
+
+.labels{
+    color: white;
+}
